@@ -1,9 +1,9 @@
 ## Olá! Eu sou a Ariane Barbosa
 
-- 🔭 Atualmente trabalho como Analista de sistemas Jr | Q&A. 
+- 👩🏻‍💻 Atualmente trabalho como Analista de sistemas Jr | Q&A. 
 - 💡 Conhecimento básico em C, PHP, e Python.
-- 🌱 Estudando front-end e linguagem Java.
-- 😄 Pronouns: ela/dela.
+- 💻 Estudando front-end e linguagem Java.
+- 👩🏻 Pronouns: ela/dela.
 
 <div align="center">
   <a href="https://github.com/ari-barbosa">
