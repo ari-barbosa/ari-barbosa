@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Ariane Barbosa
 
-- 👩🏻‍💻<h1 style="color: red"> Atualmente trabalho como Analista de sistemas Jr | Q&A. </h1>
+- 👩🏻‍💻 Atualmente trabalho como Analista de sistemas Jr | Q&A. 
 - 💡 Conhecimentos básicos em CSS, JS, C, PHP, e Python.
 - 💻 Estudando front-end e linguagem Java.
 - 👩🏻 Pronouns: ela/dela.
