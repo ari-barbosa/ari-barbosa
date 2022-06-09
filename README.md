@@ -1,8 +1,8 @@
 ## Olá! Eu sou a Ariane Barbosa
 
-- 👩🏻‍💻 Atualmente trabalho como Analista de sistemas Jr | Q&A. 
-- 💡 Conhecimentos básicos em JAVA, C, PHP, HTML, CSS e Python.
-- 💻 Estudando front-end e linguagem Java.
+- 👩🏻‍💻 Atualmente trabalho como Analista de sistemas Jr | Q&A na IBM Brasil.
+- 💻 Cursando Análise e desenvolvimento de sistemas (3 SEMESTRE) na UNISAL.
+- :hotsprings:	Participando do SANTANDER BOOTCAMP FULLSTACK DEVELOPER
 - 👩🏻 Pronouns: ela/dela.
 
 
