@@ -15,13 +15,11 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Ari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <!--img align="center" alt="Ari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"-->
-  <!-- img align="center" alt="Ari-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" -->
-  
-  <img align="center" alt="Ari-C" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" >
-  <img align="center" alt="Ari-PHP" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" >
-  <img align="center" alt="Ari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ari-Java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Ari-JS" height="30" width="40"  src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" >
+  <img align="center" alt="Ari-TypeScript" height="30" width="40"  src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" >
+  <img align="center" alt="Ari-Angular" height="30" width="40"  src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" >
+   <img align="center" alt="Ari-Java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Ari-C" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">
    <img align="center" alt="Ari-Bash" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
   
   ##
