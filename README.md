@@ -1,8 +1,7 @@
 ## Olá! Eu sou a Ariane Barbosa
 
 - 👩🏻‍💻 Atualmente trabalho como Analista de sistemas Jr | Q&A na IBM Brasil.
-- 💻 Cursando Análise e desenvolvimento de sistemas (3 SEMESTRE) na UNISAL.
-- :hotsprings:	Participando do SANTANDER BOOTCAMP FULLSTACK DEVELOPER
+- 💻 Cursando Análise e desenvolvimento de sistemas (4 SEMESTRE) na UNISAL.
 - 👩🏻 Pronouns: ela/dela.
 
 
