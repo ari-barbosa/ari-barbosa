@@ -16,7 +16,6 @@
   <img align="center" alt="Ari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ari-JS" height="30" width="40"  src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" >
   <img align="center" alt="Ari-TypeScript" height="30" width="40"  src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" >
-  <img align="center" alt="Ari-Angular" height="30" width="40"  src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" >
    <img align="center" alt="Ari-Java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Ari-C" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=currentColor">
    <img align="center" alt="Ari-Bash" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
