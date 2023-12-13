@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Ariane Barbosa
 
-- 👩🏻‍💻 Atualmente trabalho como Analista de sistemas Jr | Q&A.
+- 👩🏻‍💻 Atualmente trabalho como Quality Assurance na IBM Brasil
 - 💻 Formada em análise e desenvolvimento na UNISAL.
 - 👩🏻 Pronouns: ela/dela.
 
