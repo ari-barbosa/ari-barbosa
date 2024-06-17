@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Ariane Barbosa
 
-- 👩🏻‍💻  Trabalho há mais de 2 anos como Quality Assurance na IBM Brasil.
+- 👩🏻‍💻  Trabalho há 3 anos como Quality Assurance na IBM Brasil.
 - 💻 Formada em Análise e Desenvolvimento de sistemas na UNISAL.
 - 👩🏻 Pronouns: ela/dela.
 
